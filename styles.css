@@ -10,11 +10,6 @@
     transform-origin: right center;
 }
 
-.rotacao-botao{
-    transform: rotate(-90deg);
-    transform-origin: right center;
-}
-
 .opcoes-acessibilidade{
     margin-top:10px;
     display: flex;
@@ -41,13 +36,4 @@
     transform-origin: right center;
 }
 
-.opcoes-acessibilidade{
-    margin-top:10px;
-    display: flex;
-    flex-direction: column;
-}
-
-.opcoes-acessibilidade button{
-    margin-bottom: 5px;
-}
 
